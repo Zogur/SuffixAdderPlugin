@@ -1,0 +1,2 @@
+# SuffixAdderPlugin
+为QChatGPT回复的消息增加上自定义后缀
